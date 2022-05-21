@@ -91,6 +91,10 @@ h1 {
   margin-bottom: 1.75rem;
 }
 
+.error-msg {
+  font-size: 1rem;
+}
+
 /* about page */
 .about-para {
   text-align: center;
